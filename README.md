@@ -4,9 +4,9 @@
 
 # Hi there, I'm Satish Amara! 
 
-🚀 Software Engineer | Full-Stack Developer | AI Engineer 
+💻 Software Engineer | Full-Stack & Backend Systems | Cloud & AI Engineering  
 
-💡 Building scalable systems and real-world engineering solutions  
+⚡ Building scalable systems, automation platforms, distributed services, and production-ready AI integrations  
 
 📍 United States
 
@@ -18,12 +18,15 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
-I'm a software engineer who enjoys turning complex problems into clean, scalable solutions.
+I design and build **scalable backend systems, full-stack applications, and automation platforms** that solve real-world engineering problems.
 
-I specialize in:
-- Full-stack web development
-- Backend APIs & distributed systems
-- Performance optimization
+My work focuses on:
+- Distributed systems & microservices
+- High-performance APIs
+- Cloud-native architectures
+- Intelligent automation & AI integrations
+- Production reliability & observability
+
 
 I love building tools that **save time, reduce manual work, and scale reliably**.
 - 🔭 I'm currently working on **awesome full-stack projects**
@@ -37,30 +40,106 @@ I love building tools that **save time, reduce manual work, and scale reliably**
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💻 Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Rust](https://skillicons.dev/icons?i=rust)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## 🎨 Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Angular](https://skillicons.dev/icons?i=angular)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
 
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+---
 
+## ⚙️ Backend & APIs
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+---
+
+## ☁️ Cloud & DevOps
+![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
+
+---
+
+## 🗄 Databases & Big Data
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+
+---
+
+## 🧠 Distributed Systems
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
+![Messaging](https://img.shields.io/badge/Messaging/Queues-4CAF50?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-9C27B0?style=for-the-badge)
+
+---
+
+## 🤖 AI / LLM Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![HuggingFace](https://skillicons.dev/icons?i=huggingface)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-222222?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+---
+
+## 🔍 Observability & Testing
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-F04E98?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Selenium](https://skillicons.dev/icons?i=selenium)
+
+---
+
+## 🧰 Developer Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Maven](https://skillicons.dev/icons?i=maven)
+![Gradle](https://skillicons.dev/icons?i=gradle)
 </div>
 
 ---
