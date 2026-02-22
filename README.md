@@ -111,10 +111,8 @@ I love building tools that **save time, reduce manual work, and scale reliably**
 
 ---
 
-## 🤖 AI / LLM Engineering
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+## 🤖 AI Engineering
+![LLMs](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![HuggingFace](https://skillicons.dev/icons?i=huggingface)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge)
