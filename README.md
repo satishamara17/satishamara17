@@ -18,7 +18,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
-I design and build **scalable backend systems, full-stack applications, and automation platforms** that solve real-world engineering problems.
+I design and build **scalable backend systems, 
+full-stack applications, and automation platforms** that solve real-world engineering problems.
 
 My work focuses on:
 - Distributed systems & microservices
