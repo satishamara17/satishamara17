@@ -4,6 +4,10 @@
 
 # Hi there, I'm Satish Amara! 👋
 
+🚀 Software Engineer | Full-Stack Developer | AI Engineer 
+💡 Building scalable systems and real-world engineering solutions  
+📍 United States
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Open+Source+Enthusiast+🌟;Always+Learning+New+Things+📚;Building+Cool+Projects+🛠️" alt="Typing SVG" />
 
 </div>
@@ -14,12 +18,17 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
+I'm a software engineer who enjoys turning complex problems into clean, scalable solutions.
+
+I specialize in:
+- Full-stack web development
+- Backend APIs & distributed systems
+- Performance optimization
+
+I love building tools that **save time, reduce manual work, and scale reliably**.
 - 🔭 I'm currently working on **awesome full-stack projects**
-- 🌱 I'm currently learning **Cloud Architecture & DevOps**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 🤔 I'm exploring **AI/ML integrations in web apps**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **[GitHub](https://github.com/satishamara17)**
 - ⚡ Fun fact: **I debug code faster with coffee ☕**
 
 ---
@@ -56,38 +65,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=satishamara17&show_icons=true&theme=tokyonight&hide_border=true" alt="Satish's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishamara17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=satishamara17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=satishamara17&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satishamara17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satishamara17)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satishamara17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satishamara0403)
+
 
 </div>
 
