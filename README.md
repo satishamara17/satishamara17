@@ -39,107 +39,38 @@ I love building tools that **save time, reduce manual work, and scale reliably**
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+# 🛠 Technical Skills
 
-## 💻 Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![C#](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Rust](https://skillicons.dev/icons?i=rust)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+## Languages
+C • C++ • Java • C# • Python • JavaScript • TypeScript • SQL • Rust
 
----
+## Frontend
+React • Redux • Angular • HTML • CSS • Material UI • Webpack • TanStack
 
-## 🎨 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Angular](https://skillicons.dev/icons?i=angular)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui)
-![Webpack](https://skillicons.dev/icons?i=webpack)
-![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+## Backend & APIs
+ASP.NET Core • .NET • Spring Boot • Node.js • Express • Django • Flask  
+REST • gRPC • GraphQL
 
----
+## Cloud & DevOps
+Azure (Functions, Service Bus, Blob Storage, Event Grid, Monitor)  
+AWS (EC2, S3, Lambda, SQS/SNS, CloudWatch)  
+GCP  
+Docker • Kubernetes (AKS/EKS) • Terraform (HCL) • Jenkins • CI/CD
 
-## ⚙️ Backend & APIs
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
+## Databases & Big Data
+PostgreSQL • Oracle • MySQL • MongoDB • Redis • Cassandra  
+Kafka • Spark • PySpark • Hibernate • JPA
 
----
+## Distributed Systems
+Microservices • Event-Driven Architecture • Messaging/Queues • Caching • System Design
 
-## ☁️ Cloud & DevOps
-![Azure](https://skillicons.dev/icons?i=azure)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
+## AI / ML & LLM Engineering
+LLMs • RAG Pipelines • MCP • LangGraph • LangChain  
+Hugging Face • vLLM • Ollama • Unsloth
 
----
-
-## 🗄 Databases & Big Data
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-![Kafka](https://skillicons.dev/icons?i=kafka)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-
----
-
-## 🧠 Distributed Systems
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
-![Messaging](https://img.shields.io/badge/Messaging/Queues-4CAF50?style=for-the-badge)
-![Caching](https://img.shields.io/badge/Caching-9C27B0?style=for-the-badge)
-
----
-
-## 🤖 AI Engineering
-![LLMs](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![HuggingFace](https://skillicons.dev/icons?i=huggingface)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-222222?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
----
-
-## 🔍 Observability & Testing
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
-![Grafana](https://skillicons.dev/icons?i=grafana)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
-![Kibana](https://img.shields.io/badge/Kibana-F04E98?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![Selenium](https://skillicons.dev/icons?i=selenium)
-
----
-
-## 🧰 Developer Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Maven](https://skillicons.dev/icons?i=maven)
-![Gradle](https://skillicons.dev/icons?i=gradle)
-</div>
+## Observability & Testing
+OpenTelemetry • Prometheus • Grafana • Kibana • Serilog  
+JUnit • xUnit • NUnit • Moq • Selenium • BDD
 
 ---
 
