@@ -37,9 +37,8 @@ I love building tools that **save time, reduce manual work, and scale reliably**
 
 ---
 
-## 🛠️ Tech Stack
 
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
 ## Languages
 C • C++ • Java • C# • Python • JavaScript • TypeScript • SQL • Rust
