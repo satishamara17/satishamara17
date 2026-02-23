@@ -43,10 +43,10 @@ I love building tools that **save time, reduce manual work, and scale reliably**
 - **Languages**: C • C++ • Java • C# • Python • JavaScript • TypeScript • SQL • Rust
 - **Frontend:** React • Redux • Angular • HTML • CSS • Material UI • Webpack • TanStack
 - **Backend & APIs:** Spring Boot • .NET • Node.js • Express • Django • Flask •  REST • gRPC • GraphQL
-- **Cloud & DevOps: ** Azure • AWS • GCP • Docker • Kubernetes (AKS/EKS) • Terraform (HCL) • Jenkins • CI/CD
-- ** Databases & Big Data:** PostgreSQL • MySQL • MongoDB • Redis • Cassandra • Kafka • Spark/PySpark • Hibernate • JPA
+- **Cloud & DevOps:** Azure • AWS • GCP • Docker • Kubernetes (AKS/EKS) • Terraform (HCL) • Jenkins • CI/CD
+- **Databases & Big Data:** PostgreSQL • MySQL • MongoDB • Redis • Cassandra • Kafka • Spark/PySpark • Hibernate • JPA
 - **Distributed Systems:** Microservices • Event-Driven Architecture • Messaging/Queues • Caching • System Design
-- **AI / ML: ** : LLMs • RAG Pipelines • MCP • LangGraph/LangChain • Hugging Face • vLLM • Ollama • Unsloth
+- **AI / ML:** : LLMs • RAG Pipelines • MCP • LangGraph/LangChain • Hugging Face • vLLM • Ollama • Unsloth
 - **Observability & Testing:** OpenTelemetry • Prometheus • Grafana • Kibana • Serilog • JUnit • xUnit • NUnit • Moq • Selenium • BDD
 
 ---
